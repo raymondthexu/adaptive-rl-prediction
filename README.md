@@ -1,1 +1,1 @@
-# macro-market-prediction
+# adaptive-rl-prediction
